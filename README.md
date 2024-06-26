@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me 👋
+
+- 🌱 I’m currently learning how to use github for my software projects.
 
 <!--
 **otterbyte/otterbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
